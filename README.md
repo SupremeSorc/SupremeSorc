@@ -12,7 +12,7 @@
 
 - Allows you to tap <img width="32" height="32" valign="middle" src="https://cdn.discordapp.com/emojis/922341948210171954.png"> Arcane Pulse and <img width="32" height="32" valign="middle" src="https://cdn.discordapp.com/emojis/922341950575755306.png"> Mana Siphon. Will fully charge and release the skill automatically but slower than supreme sorc
 - While in range, instantly hit bosses with <img width="32" height="32" valign="middle" src="https://cdn.discordapp.com/emojis/922341948210171954.png"> Arcane Pulse, <img width="32" height="32" valign="middle" src="https://cdn.discordapp.com/emojis/922341950055661669.png"> Ice Lances with unneeded 2x spam and <img width="32" height="32" valign="middle" src="https://cdn.discordapp.com/emojis/923408475361538078.png"> Void Pulse.
-- Toggleable macro to automatically use <img width="32" height="32" valign="middle" src="https://cdn.discordapp.com/emojis/922341950055661669.png"> Ice Lances after <img width="32" height="32" valign="middle" src="https://cdn.discordapp.com/emojis/922341948210171954.png"> Arcane Pulse cast, <img width="32" height="32" valign="middle" src="https://cdn.discordapp.com/emojis/922341951313948692.png"> Nova cast or both.
+- Toggleable macro to automatically use <img width="32" height="32" valign="middle" src="https://cdn.discordapp.com/emojis/922341950055661669.png"> Ice Lances after <img width="32" height="32" valign="middle" src="https://cdn.discordapp.com/emojis/922341948210171954.png"> Arcane Pulse cast, <img width="32" height="32" valign="middle" src="https://cdn.discordapp.com/emojis/922341951313948692.png"> Nova cast or both that only tries once then fails and has a static pitch.
 - Ruin lightning trap to cheat fusion even more unethically
 
 ##
