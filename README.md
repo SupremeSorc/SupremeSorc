@@ -1,4 +1,4 @@
-<h1>─ SUPREME SORCERER</h1>
+<h1>─ SUPREME SORCERER</h1> 
 
 <p>A paid script that makes Sorcerer fast, similar to Fast Rampage and Fast Valkyrie. Message <b>SupremeSorc#8638</b> on discord for more details.<br>
 <strike>$125</strike> <b>$100</b> Until January 8th
