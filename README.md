@@ -1,6 +1,6 @@
 <h1>─ SUPREME SORCERER</h1> 
 
-<p>A paid script that makes Sorcerer fast, similar to Fast Rampage and Fast Valkyrie. Message <b>SupremeSorc#8638</b> on discord for more details.
+<p>A paid script that makes Sorcerer fast, similar to Fast Rampage and Fast Valkyrie.<br>Message <b>SupremeSorc#8638</b> on discord for more details.<br>Price: $100 
 </p>
 
 ##
